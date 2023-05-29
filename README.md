@@ -1,13 +1,14 @@
+# Overview
 The repository consist of python machine learning code for the predicition of stock using live data from library named pandas_datareader that can access public financial data from the internet and import it into Python as dataframe. Further more the repo also consists of data from Kaggle, provided by the username Yash Patel, and the direct URL to the dataset is https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm/input.
 
 The dataset consists of Amazon, Domino's Pizza Inc, MICROSOFT, BITCOIN, NETFLIX, APPLE, TESLA, YAHOO and GOOGLE data samples with seven attributes: date, symbol, open, close, low, high and volume.
 
-
+## Introduction to Stock Prediction
 Accurate and timely projections of stock prices are crucial in today's data-driven and fast-paced financial markets when making investing decisions. With the development of machine learning algorithms, it is now possible to analyze historical data and make predictions based on patterns and trends. This documentation serves as a comprehensive guide to implementing a stock prediction system using live data in machine learning.
 
 To build a robust stock prediction model, the prediction model consists of various libraries and frameworks, including pandas_datareader, pandas, numpy, matplotlib, and TensorFlow. These libraries provide a rich set of functionalities for data manipulation, analysis, visualization, and building machine learning models.
 
-About this model
+## About this model
 
 1. Installing and importing packages and library
 2. Descriptive Statistics about the Data
@@ -34,6 +35,6 @@ About this model
 24. Algorthm-3 Forest Regressor -RF
 
 
-Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
